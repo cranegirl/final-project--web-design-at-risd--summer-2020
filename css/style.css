@@ -44,4 +44,6 @@ main{
 
 .homepage{
    float: right;
+   padding-right: 50px;
+   padding-top: 30px;
 }
