@@ -61,5 +61,6 @@ main{
 .contact{
    padding-top: 15px;
    padding-left: 20px;
+   font-weight: bold;
 }
 }
