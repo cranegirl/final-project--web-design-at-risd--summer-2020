@@ -57,3 +57,9 @@ main{
    box-shadow: 1px 2px 5px #999;
    color: #1a1a1a;
 }
+
+.contact{
+   padding-top: 15px;
+   padding-left: 20px;
+}
+}
