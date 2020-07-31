@@ -21,3 +21,8 @@ h1{
    box-shadow: 1px 2px 5px #999;
    color: #1a1a1a;
 }
+
+a:visited, a:link, a:active{
+    text-decoration: none;
+}
+}
