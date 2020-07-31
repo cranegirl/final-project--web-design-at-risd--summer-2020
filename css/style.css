@@ -31,3 +31,7 @@ a:hover{
    text-decoration: none;
    color: #00A19A;
 }
+
+main > img {
+   width: 80%;
+}
